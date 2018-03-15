@@ -1,0 +1,17 @@
+
+
+deploy order
+
+firebase login -> no pb
+
+firebase init -> database/hosting, public -> ./dist
+
+npm run build BEFORE firebase deploy
+
+
+
+dashboard.emailjs.com/
+
+tylershyoon@snu.ac.kr login
+
+instruction 참고해서 email 기능 넣기
